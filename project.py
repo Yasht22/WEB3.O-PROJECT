@@ -33,9 +33,5 @@ class Car:
         
 car1=Car("Hyundai","Creta",1960,2,20,30)
 car2=Car("Maruti","City",1980,1,20,30)
-# car1.accelerate(5)
-# car1.move()
-# car2.accelerate(4)
-# car2.move()
 print(car1.detect_collison(car2))
 print(car1.time_to_collison(car2))
