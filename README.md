@@ -2,17 +2,8 @@
 First we imported Math module
 
 ---
-We made class named as CAR
+We made class named class CAR
 
-### **YASH**
-
-**hsh**
-*hsh*
-***hdv***
----
-
-  
----
 Inside class CAR I made function which takes attributes of object as argument, self refers to the object to which I will add the attributes
 
 ```python
